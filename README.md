@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 
 ##  📫 You can also find me on
 
-- Linkedin: https://www.linkedin.com/in/s-mushnoori/
-- Medium: I'm working on it!
+- **LinkedIn**: https://www.linkedin.com/in/s-mushnoori/
+- **Medium**: I'm working on it!
