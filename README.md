@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - **Jazz piano**, I love playing (and talking) music!
 - **Drawing**, which I rediscovered my love for after a decade
 - **Moneyball** (yes, the movie)
-- **Language learning**, currently a B2 in French. Should I learn Dutch or Norwegian next? 
+- **Language learning**, currently a B2 in French. What should I learn next: Dutch or Norwegian? 
 - **Constant self improvement**
 
 ##  📫 You can also find me on
