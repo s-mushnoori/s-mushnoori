@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - **Jazz piano**, I love playing (and talking) music!
 - **Drawing**, which I rediscovered my love for after a decade
 - **Moneyball** 
-  - This movie isn't about baseball. It's about properly defining the problem. It's about asking the right questions. It's about data science.
+  - This movie isn't about baseball. It's about properly defining the problem. It's about asking the right questions.
 - **Language learning**, currently a B2 in French. What should I learn next: Dutch or Norwegian? 
 - **Constant self improvement**
 
