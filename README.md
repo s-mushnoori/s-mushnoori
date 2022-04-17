@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - My name is Sriharsha Mushnoori. You can call me Sri. Or Harsha. Depends where you're from!
 - I have 2+ years of consulting experience in the healthcare industry
 - I have previously worked on projects in oncology (pancreatic cancer, prostate cancer, glioblastoma) and cardiology (pulmonary embolism)
-- I have developed a strong interest in coding and working with data, which has led me to begin my transition to data science
+- During this time, I developed a strong interest in coding and working with data, which led me to transition to data science
 
 ##  🌳 Things I'm comfortable with
 
