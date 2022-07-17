@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 - Python (Numpy, Pandas,  Matplotlib, Seaborn, Scikit-Learn)
 - SQL
+- Tableau
 
 ##  🌱 Things I’m currently working on
 
@@ -34,6 +35,7 @@ Here are some ideas to get you started:
 ##  📖 My project portfolio
 
 - Click [here](https://github.com/s-mushnoori/repo-ception) to view a complete list of all my data science projects
+- Click [here](https://public.tableau.com/app/profile/sm3933) to view some Tableau dashboards I have made
 
 ##  🎹 Things I love
 
